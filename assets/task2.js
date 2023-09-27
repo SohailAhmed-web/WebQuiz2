@@ -12,6 +12,12 @@ const persons = [
 		personAge: "23",
 		personIncome: "3000000"
     },
+    {
+        id: 3,
+		personName: "Veesar",
+		personAge: "23",
+		personIncome: "300000"
+    },
    
 ];
 
